@@ -33,5 +33,6 @@ Trabalho prático da disciplina de Engenharia de Software. Este projeto propõe 
 
 ![Diagrama de Casos de Uso](./docs/diagrama_casos_de_uso.jpeg)
 
-* **Atores:** * **Usuário (Cidadão / Gestor de Saúde):** Consome e filtra as informações.
+* **Atores:**
+* * **Usuário (Cidadão / Gestor de Saúde):** Consome e filtra as informações.
   * **Sistema Fonte de Dados:** Alimenta o banco de dados via API.
