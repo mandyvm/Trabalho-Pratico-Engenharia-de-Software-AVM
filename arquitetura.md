@@ -19,9 +19,9 @@ Isso garante que o sistema seja escalável e que a interface seja fluida para o 
 ## 3. C4 Model - Diagrama de Contexto (Nível 1)
 O diagrama abaixo ilustra o sistema como uma caixa preta, focando em quem o utiliza e com quais sistemas externos ele se comunica.
 
-*(Insira a imagem do Nível 1 aqui: `![Contexto](./contexto.png)`)*
+![Diagrama de Contexto](./docs/diagrama_contexto.png)
 
 ## 4. C4 Model - Diagrama de Container (Nível 2)
 O diagrama abaixo detalha os contêineres internos que compõem o sistema de Dashboard, mostrando a separação entre a aplicação Web, a API e o Banco de Dados.
 
-*(Insira a imagem do Nível 2 aqui: `![Container](./container.png)`)*
+![Diagrama de Container](./docs/diagrama_container.png)
