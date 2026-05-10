@@ -1,0 +1,5 @@
+# Ignorar arquivos do Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+.env
